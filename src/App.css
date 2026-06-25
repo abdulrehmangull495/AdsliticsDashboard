@@ -21,26 +21,21 @@ body {
 
 .logo img {
   width: 47px;
-  /* margin-bottom: 5px; */
 }
 
 .logo p {
   font-size: 35px;
-
-  /* font-weight: bold; */
   color: rgba(0, 30, 192, 1);
 }
 
 .lit {
   color: rgba(0, 30, 192, 1);
-  /* font-weight: bold; */
 }
 
 .board {
   color: rgba(26, 43, 136, 1);
   font-weight: bold;
   font-size: 18.97px;
-  /* padding: 6px; */
 }
 
 .left a {
@@ -50,49 +45,23 @@ body {
 .left {
   display: flex;
   margin-right: 20px;
-  /* justify-content: start; */
+  
 }
 
-/* .sidebar {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 230px;
-    height: 100%;
-   
-    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1); 
-    z-index: 999;
-   
-    overflow-y: auto; 
-    overflow-x: hidden; 
-} */
+
 .sidebar {
   position: relative;
   top: -40px;
 }
 
-/* .scroll{
-    height: 100vh;
-    overflow-y: scroll;
-    overflow-x: hidden; 
-} */
-
-/* .vl {
-    border-left: 6px solid green;
-    height: 100px;
-  }
-   */
 
 .sidebar a {
   line-height: 23.01px;
   font-weight: 400;
   color: rgba(12, 12, 13, 1);
-
   text-decoration: none;
-
   padding: 10px 20px;
   margin: 35px;
-
   font-size: 18.97px;
   display: flex;
   align-items: center;
@@ -109,49 +78,24 @@ body {
   width: 200px;
   margin-left: 30px;
 }
-/* .pro{
-    border-bottom: 1.02px dotted rgba(224, 224, 224, 1);
-    width: 130px;
-    
-    
-} */
 .lastitem {
   display: flex;
   flex-direction: row;
   justify-content: start;
   align-items: center;
-  /* position: fixed;
-    bottom: 10px; */
   left: 25px;
   margin: 25.4px 44px;
   gap: 16px;
   margin-top: 90px;
 }
-/* .gavana {
 
-    
-    margin-bottom: 50%;
-    
-    border-radius: 4px;
-    
-} */
-
-/* .gavana{
-    width: 20px;
-} */
 
 .sidebar h3 {
-  /* font-family: Poppins; */
-  /* font-size: 24px; */
-  /* font-weight: 800; */
-  /* line-height: 32px; */
-  /* letter-spacing: 0.08em; */
   text-align: center;
 }
 
 .sidebar {
   position: relative;
-  /* bottom:10px ; */
   bottom: -10px;
 }
 
@@ -159,7 +103,6 @@ body {
   background-color: white;
   width: 200px;
   border-radius: 16px;
-
   padding: 10px;
   border: 1.36px solid rgba(239, 238, 235, 1);
 }
@@ -255,7 +198,6 @@ body {
 
 .notifi {
   width: 30px;
-  /* margin-right: 20px; */
   height: 30px;
   border-radius: 15px;
 }
@@ -271,13 +213,12 @@ body {
 .right {
   width: 100%;
   margin-right: 20px;
-  /* margin: 48px; */
 }
 
 .available {
   color: rgba(125, 125, 125, 1);
   font-size: 16px;
-  /* border: 1px solid rgba(217, 222, 241, 1) */
+  
 }
 .todayrevenue {
   font-size: 16px;
@@ -287,27 +228,10 @@ body {
 }
 .subscribers {
   font-size: 16px;
-  /* margin-bottom: 5px; */
   position: relative;
   bottom: 3px;
 }
-/* .todayrevenue{
-   
-    font-size: 13px;
 
-} */
-
-/* .todaysessions{
-   
-    font-size: 13px;
-
-}
-
-.subscribers{
-   
-    font-size: 13px;
-
-} */
 .wed {
   color: rgba(7, 17, 72, 1);
 }
