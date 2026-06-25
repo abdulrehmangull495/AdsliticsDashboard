@@ -250,7 +250,6 @@ body {
   height: 21px;
   padding: 3px 4px;
   gap: 3px;
-
   background-color: rgba(248, 250, 251, 1);
 }
 
@@ -262,9 +261,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* background-color: rgba(248, 250, 251, 1); */
   background-color: rgba(255, 0, 0, 0.1);
-
   width: 54px;
   padding: 3px 4px 3px 4px;
   height: 21px;
@@ -284,10 +281,8 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-
   margin-left: 20px;
   background-color: rgba(248, 250, 251, 1);
-
   width: 54px;
   padding: 3px 4px 3px 4px;
   height: 21px;
@@ -300,10 +295,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-
-  /* margin-left: 20px; */
   background-color: rgba(248, 250, 251, 1);
-
   width: 54px;
   padding: 3px 4px 3px 4px;
   height: 21px;
@@ -316,29 +308,9 @@ body {
   font-size: 14px;
 }
 
-/* .thirdarrow{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: rgba(248, 250, 251, 1);
-    width: 55px;
-    padding: 3px 4px 3px 4px;
-    height: 25px;
-    border-radius: 50px;
-} */
-
 .fortharrow {
-  /* display: flex;
-    justify-content: center;
-    align-items: center; */
-  /* background-color: rgba(248, 250, 251, 1); */
-  /* width: 55px; */
-
   color: rgba(61, 55, 241, 1);
-
   padding: 3px 4px 3px 4px;
-  /* height: 34px; */
-  /* border-radius: 50px; */
   margin-bottom: 10px;
 }
 
@@ -347,9 +319,6 @@ body {
 }
 
 .compaignperformance {
-  /* box-shadow: 0px 20px 50px 0px rgba(220, 224, 249, 0.5); */
-  /* border-radius: 20px; */
-  /* border: 2px solid rgba(236, 238, 246, 1); */
   width: 759px;
   height: 326px;
 }
@@ -371,18 +340,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* border: 2px solid rgba(236, 238, 246, 1); */
-
-  /* background-color: blue; */
   background-color: rgba(246, 246, 246, 1);
 }
 
 .category {
   font-size: 22.4px;
   color: rgba(0, 0, 0, 1);
-
-  /* width: 287px; */
-  /* height: 334px; */
 }
 
 #social {
@@ -426,10 +389,6 @@ body {
   width: 35px;
   height: 35px;
 }
-
-/* .custom-table {
-   
-} */
 
 .custom-table th,
 .custom-table td {
